@@ -10,7 +10,7 @@
 >
 > 📄 [Full Project Report](https://github.com/Anirudh-San/transparent-ae-Extended/blob/2f644e83fecf2a14e01d8d8c7c91c1802c59d7ff/Report%20and%20Results/CNS-Project-Report_2023UCP1844.pdf) · [Reproduction Results Comparison](https://github.com/Anirudh-San/transparent-ae-Extended/blob/2f644e83fecf2a14e01d8d8c7c91c1802c59d7ff/Report%20and%20Results/%20TranSPArent%20Reproduction%20Results%20Comparison.pdf)
 
-This repository contains a full reproduction of the NDSS 2026 paper *TranSPArent: Taint-style Vulnerability Detection in Generic Single-Page Applications through Automated Framework Abstraction*, along with two novel extensions developed during the reproduction process.
+This forked repository contains a full reproduction of the NDSS 2026 paper *TranSPArent: Taint-style Vulnerability Detection in Generic Single-Page Applications through Automated Framework Abstraction*, along with two novel extensions developed during the reproduction process.
 
 ---
 
