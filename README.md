@@ -7,6 +7,8 @@
 > Artifact: `transparent-ae-1.0.0` · Zenodo DOI: https://doi.org/10.5281/zenodo.17822391
 >
 > Course: 22CST352 Computer and Network Security · MNIT Jaipur · Submitted by Anirudh Sanker (2023UCP1844)
+>
+> 📄 [Full Project Report](https://github.com/Anirudh-San/transparent-ae-Extended/blob/2f644e83fecf2a14e01d8d8c7c91c1802c59d7ff/Report%20and%20Results/CNS-Project-Report_2023UCP1844.pdf) · [Reproduction Results Comparison](https://github.com/Anirudh-San/transparent-ae-Extended/blob/main/TranSPArent%20Reproduction%20Results%20Comparison.pdf)
 
 This repository contains a full reproduction of the NDSS 2026 paper *TranSPArent: Taint-style Vulnerability Detection in Generic Single-Page Applications through Automated Framework Abstraction*, along with two novel extensions developed during the reproduction process.
 
@@ -592,6 +594,8 @@ done
 | SVG sink alerts | `accuracy/fdr/build_svg/` |
 | Vue 3 alerts | `accuracy/fdr/build_vue3/` |
 | SVG PoC | `svg-sink-poc/poc.html` |
+| Project report | `Report and Results/CNS-Project-Report_2023UCP1844.pdf` |
+| Results comparison | `TranSPArent Reproduction Results Comparison.pdf` |
 
 ---
 
