@@ -1,0 +1,26 @@
+{
+  "svg_sink_fdr_analysis": {
+    "total_alerts": 104,
+    "true_positives": 36,
+    "false_positives": 68,
+    "fdr_percent": 65.4,
+    "precision_percent": 34.6,
+    "repos_analyzed": 14,
+    "comparison": {
+      "transparent_overall_fdr": 42.1,
+      "svg_sink_fdr": 65.4,
+      "difference": 23.3
+    },
+    "fp_root_causes": {
+      "href_src_props": "design-system-react (27) + nylas-mail (12) \u2014 query matches xlinkHref but overapproximates to regular href/src",
+      "static_content": "quix (14) \u2014 documentation JSX with hardcoded non-user-controlled content",
+      "carousel_animation": "iview (2) + mriviewer (1) \u2014 animation elements, not injection vectors"
+    },
+    "tp_breakdown": {
+      "domPropsInnerHTML": "we-vue (19) \u2014 genuine Vue innerHTML injection",
+      "xlinkHref_svg": "survey-library (7) + bootstrap-vue (2) + vssue (1) \u2014 SVG icon href injection",
+      "innerHTML_markdown": "ng2-markdown (2) \u2014 user markdown rendered as HTML",
+      "other": "Bilibili-Evolved (1) + apostrophe (1) + iview (1) + vue-admin (1) + vue-markdown (1)"
+    }
+  }
+}

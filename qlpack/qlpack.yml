@@ -1,0 +1,4 @@
+name: check
+extractor: javascript
+dependencies:
+  codeql/javascript-all: "2.6.1"

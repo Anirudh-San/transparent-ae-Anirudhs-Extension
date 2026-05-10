@@ -1,0 +1,18 @@
+# Large directories - keep locally, don't push
+transparent/targets/
+transparent/build/
+transparent/node_modules/
+transparent/packages/
+transparent/qlpacks/
+transparent/scripts/
+transparent/yarn.lock
+
+accuracy/fdr/build*/
+accuracy/fnr/
+accuracy/fdr/
+node_modules/
+
+# Build artifacts
+*.bqrs
+.git/
+.git.backup/
